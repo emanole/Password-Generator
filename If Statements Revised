@@ -1,0 +1,10 @@
+ask "Type a four digit number that will be used in your password. Make sure it is easy for you to remember!"
+if (length of number > 4 or length of number is < 4)
+  {
+  say "Try again! Remember, the number needs to be four digits, not less than or greater than that."
+  }
+else 
+  {
+  say "Nice number!"
+  var number = answer;
+  }
