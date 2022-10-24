@@ -1,0 +1,4 @@
+when (this sprite clicked)
+  switch backdrop to stars;
+  switch costume to laptop;
+  say "Are you ready to generate your very own password? Great! First, I need to know what website you're creating the password for!"
